@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcements and Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Right Panel for Announcements -->
+        <div class="right-panel">
+            <h3>Latest Announcements</h3>
+            <ul id="summaries-container">
+                {% for announcement in announcements %}
+                    <li>
+                        <strong>{{ announcement.symbol }}</strong>: {{ announcement.title }}
+                        <p>{{ announcement.summary }}</p>
+                        <a href="{{ announcement.link }}" target="_blank">View PDF</a>
+                        <br>
+                        <small>{{ announcement.date_time }}</small>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Chatbot Interface -->
+        <div class="chatbot-panel">
+            <div id="chat-log">
+                <!-- Chat messages will appear here -->
+            </div>
+            <form id="chat-form" action="/chat" method="post">
+                <input type="text" id="user-query" name="query" placeholder="Ask a question..." required>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Auto-refresh for Announcements
+        function fetchSummaries() {
+            fetch('/api/summaries')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const summariesContainer = document.getElementById("summaries-container");
+                    summariesContainer.innerHTML = ""; // Clear old summaries
+
+                    data.forEach(summary => {
+                        const summaryElement = `
+                            <li>
+                                <strong>${summary.symbol}</strong>: ${summary.title}
+                                <p>${summary.summary}</p>
+                                <a href="${summary.link}" target="_blank">View PDF</a>
+                                <br>
+                                <small>${summary.date_time}</small>
+                            </li>
+                        `;
+                        summariesContainer.innerHTML += summaryElement;
+                    });
+                })
+                .catch(error => console.error('Error fetching summaries:', error));
+        }
+
+        // Auto-refresh every 10 minutes (600,000 ms)
+        setInterval(fetchSummaries, 600000);
+
+        // Send user query to the server for chatbot functionality
+        const form = document.getElementById("chat-form");
+        const chatLog = document.getElementById("chat-log");
+
+        form.addEventListener("submit", async (event) => {
+            event.preventDefault();
+            const query = document.getElementById("user-query").value;
+
+            // Display user query
+            const userMessage = document.createElement("div");
+            userMessage.classList.add("message", "user");
+            userMessage.textContent = query;
+            chatLog.appendChild(userMessage);
+
+            // Send query to the server
+            const response = await fetch("/chat", {
+                method: "POST",
+                body: new FormData(form),
+            });
+            const result = await response.json();
+
+            // Display chatbot response
+            const botMessage = document.createElement("div");
+            botMessage.classList.add("message", "bot");
+            botMessage.innerHTML = `
+                <p>${result.answer}</p>
+                <div>
+                    <strong>Source Documents:</strong>
+                    <ul>
+                        ${result.source_documents.map(doc => `
+                            <li>
+                                <p>${doc.content}</p>
+                                <a href="${doc.source}" target="_blank">Source</a>
+                            </li>
+                        `).join('')}
+                    </ul>
+                </div>
+            `;
+            chatLog.appendChild(botMessage);
+
+            // Scroll chat log to the bottom
+            chatLog.scrollTop = chatLog.scrollHeight;
+
+            // Clear input field
+            document.getElementById("user-query").value = "";
+        });
+    </script>
+</body>
+</html>

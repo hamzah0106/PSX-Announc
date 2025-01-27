@@ -1,0 +1,1068 @@
+{
+  "last_download_time": "2025-01-15T14:31:00",
+  "announcements": [
+    {
+      "date_time": "2024-12-26T14:57:00",
+      "symbol": "ASC",
+      "file_path": "psx_announcements\\20241226_1457_ASC.pdf",
+      "ocr_file_path": "psx_announcements\\20241226_1457_ASC_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T12:01:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250102_1201_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1201_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T11:38:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_1138_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1138_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T08:12:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_0812_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_0812_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:44:00",
+      "symbol": "PAKD",
+      "title": "Pak Datacom Limited",
+      "file_path": "psx_announcements\\20250101_1444_PAKD.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1444_PAKD_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:24:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250101_1424_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1424_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T12:01:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250102_1201_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1201_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T11:38:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_1138_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1138_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T08:12:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_0812_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_0812_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:44:00",
+      "symbol": "PAKD",
+      "title": "Pak Datacom Limited",
+      "file_path": "psx_announcements\\20250101_1444_PAKD.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1444_PAKD_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:24:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250101_1424_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1424_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T15:02:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241231_1502_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1502_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T14:58:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241231_1458_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1458_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T12:54:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241231_1254_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1254_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T12:01:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250102_1201_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1201_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T11:38:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_1138_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1138_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T08:12:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_0812_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_0812_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:44:00",
+      "symbol": "PAKD",
+      "title": "Pak Datacom Limited",
+      "file_path": "psx_announcements\\20250101_1444_PAKD.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1444_PAKD_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:24:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250101_1424_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1424_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T15:02:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241231_1502_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1502_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T14:58:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241231_1458_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1458_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T12:54:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241231_1254_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1254_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T12:53:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241230_1253_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1253_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T10:09:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241230_1009_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1009_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T12:01:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250102_1201_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1201_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T11:38:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_1138_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1138_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T08:12:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_0812_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_0812_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:44:00",
+      "symbol": "PAKD",
+      "title": "Pak Datacom Limited",
+      "file_path": "psx_announcements\\20250101_1444_PAKD.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1444_PAKD_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:24:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250101_1424_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1424_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T15:02:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241231_1502_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1502_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T14:58:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241231_1458_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1458_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T12:54:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241231_1254_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1254_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T12:53:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241230_1253_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1253_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T10:09:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241230_1009_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1009_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-27T15:09:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241227_1509_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241227_1509_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-27T14:55:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241227_1455_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241227_1455_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T14:31:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250115_1431_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1431_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-15T13:01:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250115_1301_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250115_1301_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-13T13:02:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250113_1302_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250113_1302_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T14:58:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250110_1458_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1458_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-10T12:21:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250110_1221_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250110_1221_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-09T14:53:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250109_1453_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250109_1453_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-08T15:20:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250108_1520_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250108_1520_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-07T14:33:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250107_1433_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250107_1433_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-06T12:37:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250106_1237_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250106_1237_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-03T15:12:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250103_1512_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250103_1512_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T12:01:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20250102_1201_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1201_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T11:38:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_1138_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_1138_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-02T08:12:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20250102_0812_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20250102_0812_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:44:00",
+      "symbol": "PAKD",
+      "title": "Pak Datacom Limited",
+      "file_path": "psx_announcements\\20250101_1444_PAKD.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1444_PAKD_OCR.txt"
+    },
+    {
+      "date_time": "2025-01-01T14:24:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20250101_1424_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20250101_1424_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T15:02:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241231_1502_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1502_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T14:58:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241231_1458_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1458_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-31T12:54:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241231_1254_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241231_1254_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T12:53:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241230_1253_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1253_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-30T10:09:00",
+      "symbol": "MARI",
+      "title": "Mari Petroleum Company Limited",
+      "file_path": "psx_announcements\\20241230_1009_MARI.pdf",
+      "ocr_file_path": "psx_announcements\\20241230_1009_MARI_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-27T15:09:00",
+      "symbol": "DAWH",
+      "title": "Dawood Hercules Corporation Limited",
+      "file_path": "psx_announcements\\20241227_1509_DAWH.pdf",
+      "ocr_file_path": "psx_announcements\\20241227_1509_DAWH_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-27T14:55:00",
+      "symbol": "IBFL",
+      "title": "Ibrahim Fibres Limited",
+      "file_path": "psx_announcements\\20241227_1455_IBFL.pdf",
+      "ocr_file_path": "psx_announcements\\20241227_1455_IBFL_OCR.txt"
+    },
+    {
+      "date_time": "2024-12-26T15:19:00",
+      "symbol": "PSO",
+      "title": "Pakistan State Oil Company Limited",
+      "file_path": "psx_announcements\\20241226_1519_PSO.pdf",
+      "ocr_file_path": "psx_announcements\\20241226_1519_PSO_OCR.txt"
+    }
+  ]
+}
